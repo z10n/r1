@@ -1,4 +1,4 @@
-package robotopac;
+package robotopac.robots;
 
 public interface RoboWelder {
     public void takeDetails();

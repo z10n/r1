@@ -1,4 +1,7 @@
-package robotopac;
+package robotopac.tasks;
+
+import robotopac.robots.RoboPainterImpl;
+import robotopac.robots.RoboWelderImpl;
 
 public interface TaskQueue {
     public RoboPainterImpl getRoboPainter();

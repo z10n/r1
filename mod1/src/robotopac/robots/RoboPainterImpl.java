@@ -1,4 +1,4 @@
-package robotopac;
+package robotopac.robots;
 
 public class RoboPainterImpl extends Robot implements RoboPainter {
 

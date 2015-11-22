@@ -1,4 +1,8 @@
-package robotopac;
+package robotopac.tasks;
+
+import robotopac.robots.RoboPainterImpl;
+import robotopac.robots.RoboWelderImpl;
+import robotopac.robots.Robot;
 
 public class TaskQueueImpl implements TaskQueue {
     @Override
@@ -27,7 +31,7 @@ public class TaskQueueImpl implements TaskQueue {
     }
 
     @Override
-    public void setTaskype(String type) {
+    public void setTaskType(String type) {
 
     }
 

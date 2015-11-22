@@ -1,4 +1,4 @@
-package robotopac;
+package robotopac.tasks;
 
 public class ActivityTracker {
     /*TODO:
