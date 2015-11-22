@@ -1,4 +1,4 @@
-package robotopac.tasks;
+package robofactory.tasks;
 
 public class Task {
     String taskType;

@@ -1,8 +1,8 @@
-package robotopac.tasks;
+package robofactory.tasks;
 
-import robotopac.robots.RoboPainterImpl;
-import robotopac.robots.RoboWelderImpl;
-import robotopac.robots.Robot;
+import robofactory.robots.RoboPainterImpl;
+import robofactory.robots.RoboWelderImpl;
+import robofactory.robots.Robot;
 
 public class TaskQueueImpl implements TaskQueue {
     @Override

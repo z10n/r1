@@ -1,6 +1,6 @@
-package robotopac.robots;
+package robofactory.robots;
 
-import robotopac.tasks.Task;
+import robofactory.tasks.Task;
 
 public abstract class Robot {
     static int robotCount;

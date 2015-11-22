@@ -1,4 +1,4 @@
-package robotopac.robots;
+package robofactory.robots;
 
 public class RoboWelderImpl extends Robot implements RoboWelder {
     @Override
